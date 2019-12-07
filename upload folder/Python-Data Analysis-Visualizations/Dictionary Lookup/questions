@@ -1,0 +1,15 @@
+Read and understand the given dataset using Pandas library in python and answer the following questions-
+
+Write valid python cide to find out the following.
+1. Read the csv and use approppriate function to find out the number of rows and columns in the dataset.
+2. How many people out of the total population survived the disaster.
+3. Can you find out out how females survived and how many males did not survive.
+4. What was the mean age of people on the ship
+5. How many people on the ship had a string 'Mr' in their names.
+6. Is there a correlation between Survived and other columns, specify the columns correlated.
+7. How would you make a dataframe of everyone travelling in passenger class 3 and is of age higher than 28.
+8. What is the mean fare paid by people travelling with passenger class one,two and three.
+9. Write a function to replace the word male in Sex column by 'M' and the word female by 'F'. Apply this function on the Sex column.
+10. Get the values of the age column in a numpy array, now BROADCAST a value 20 on the last 7 elements of the numpy array.
+
+
